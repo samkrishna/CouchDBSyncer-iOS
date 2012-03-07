@@ -644,6 +644,7 @@
 				DSTROOT = /tmp/CouchDBSyncer_iOS.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CouchDBSyncer-iOS/CouchDBSyncer-iOS-Prefix.pch";
+				GCC_VERSION = "";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -656,6 +657,7 @@
 				DSTROOT = /tmp/CouchDBSyncer_iOS.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CouchDBSyncer-iOS/CouchDBSyncer-iOS-Prefix.pch";
+				GCC_VERSION = "";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
